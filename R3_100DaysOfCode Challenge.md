@@ -11,6 +11,13 @@ Day 33/100 R3: 28 May 2026, Thursday (≈75mins ; >25mins✅)
 - HAPPY CODING!!!
 - HAPPY LEARNING!!!
 
+Day 34/100 R3: 29 May 2026, Friday (≈25mins ; >25mins✅)
+> What have I done today?
+- I'm stuck on "Debug an ISBN Validator (Lab)" in FCC (FreeCodeCamp) website Python Certification course about Python exception handling.
+- I have no idea how to fix that.
+- Happy Coding!
+- Happy Learning!
+
 
 
 
