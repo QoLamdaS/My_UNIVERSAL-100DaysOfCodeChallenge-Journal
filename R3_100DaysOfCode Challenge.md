@@ -24,4 +24,10 @@ Day 35/100 R3: 30 May 2026, Saturday (≈25mins ; >25mins✅)
 - Happy Coding!
 - Happy Learning!
 
+Day 36/100 R3: 31 May 2026, Sunday (≈5mins ; >25mins❌)
+> What have I done today?
+- Still stuck on completing "Debug an ISBN Validator (Lab)" in FreeCodeCamp website Python Certification course about Python exception handling.
+- Just Showing Up today. I'm busy.
+- Happy Coding!
+- Happy Learning!
 
