@@ -35,3 +35,10 @@ Day 37/100 R3: 1 June 2026, Monday (≈5mins ; >25mins❌)
 > What have I done today?
 - Still stucking on "Debug an ISBN Validator (Lab)" in FreeCodeCamp website Python Certification course about Python exception handling. Just Showing Up today. I'm so busy today.
 - Happy Learning!
+
+Day 38/100 R3: 3 June 2026, Wednesday (≈5mins ; >25mins❌)
+> What have I done today?
+- I completely forgot to do "programming" yesterday. I really forgot and was so busy yesterday. I missed yesterday :)
+- Still stuck on "Debug an ISBN Validator (Lab)" in the FreeCodeCamp website Python Certification course about Python exception handling. 
+- Just Showing Up today. I'm also really busy today.
+- Happy Learning!
