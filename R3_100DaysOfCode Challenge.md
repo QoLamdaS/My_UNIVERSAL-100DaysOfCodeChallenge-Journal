@@ -48,3 +48,9 @@ Day 39/100 R3: 4 June 2026, Thursday (≈5mins ; >25mins❌)
 - Completed "Error Handling Review" on the FCC website Python Certification.
 - Just Showing Up. Today I'm really busy and so lazy =)
 - Happy Learning!
+
+Day 40/100 R3: 5 June 2026, Friday (≈5mins ; >25mins❌)
+> What have I done today?
+- Just Showing Up reviewing concepts.
+- Really so lazy and really unmotivated to do. Keep Showing Up
+- Happy Learning!
