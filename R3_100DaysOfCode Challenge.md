@@ -54,3 +54,10 @@ Day 40/100 R3: 5 June 2026, Friday (≈5mins ; >25mins❌)
 - Just Showing Up reviewing concepts.
 - Really so lazy and really unmotivated to do. Keep Showing Up
 - Happy Learning!
+
+Day 41/100 R3: 6 June 2026, Saturday (≈5mins ; >25mins❌)
+> What have I done today?
+- Working in Classes and Objects "Build a Musical Instrument Inventory (Workshop)" in FreeCodeCamp website Python Certification for at least reviewing my OOP concepts. Just Showing Up today.
+- Happy Learning!
+- Happy Coding!
+
