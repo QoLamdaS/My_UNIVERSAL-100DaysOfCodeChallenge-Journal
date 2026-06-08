@@ -66,3 +66,10 @@ Day 42/100 R3: 7 June 2026, Sunday (≈5mins ; >25mins❌)
 - Just Showing Up today. Today I have some urgent things to do right now.
 - Happy Learning!
 
+Day 43/100 R3: 8 June 2026, Monday (≈10mins ; >25mins❌)
+> What have I done today?
+- Still working on Classes and Objects "Build a Musical Instrument Inventory (Workshop)" in the FCC Website Python Certification for reviewing my OOP concepts. 
+- Just Showing Up today. I got a common cold today.
+- Happy Learning!
+- Happy Coding!
+
