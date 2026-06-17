@@ -126,4 +126,12 @@ Day 51/100 R3: 16 June 2026, Tuesday (≈5mins ; >25mins❌)
 - Just Showing Up again today. Today I'm still take day off for my family holiday. I'm so busy and really exhausted now.
 - Happy Learning!
 
+Day 52/100 R3: 17 June 2026, Wednesday (≈10mins ; >25mins❌)
+> What have I done today?
+- Progressing Step 9/13 -> Step 10/13 in Classes and Object "Build a Musical Instrument Inventory (Workshop)" in the FCC website Python Certification.
+- Just Showing Up again today. I feel so exhausted and so sluggish today.
+- Happy Learning!
+- Happy Coding!
+
+
 
