@@ -133,5 +133,10 @@ Day 52/100 R3: 17 June 2026, Wednesday (≈10mins ; >25mins❌)
 - Happy Learning!
 - Happy Coding!
 
+Day 53/100 R3: 18 June 2026, Thursday (≈10mins ; >25mins❌)
+> What have I done today?
+- Reviewing Python OOP concepts. I think I need to take a rest I don't know. I have no idea
+- Just Showing Up again today. I feel so unmotivated and really lazy.
+- Happy Learning!
 
 
