@@ -191,4 +191,11 @@ Day 60/100 R3: 25 June 2026, Thursday (≈5mins ; >25mins❌)
 - Happy Learning!
 - Happy Coding!
 
+Day 61/100 R3: 27 June 2026, Saturday (≈5mins ; >25mins❌)
+> What have I done today?
+- Sorry I'm really forgot to do "programming" yesterday hehehehe because yesterday I'm too busy and too exhausted :(
+- Reviewed a bit Python basic concepts. Just Showing Up today again.
+- I'm still taking some days off✈️🧳⛺🥾🛳️
+- Happy Learning!
+- Happy Coding!
 
