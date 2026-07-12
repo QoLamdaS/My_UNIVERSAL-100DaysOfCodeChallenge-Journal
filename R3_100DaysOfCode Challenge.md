@@ -288,3 +288,10 @@ Day 74/100 R3: 11 July 2026, Saturday (≈5mins ; >25mins❌)
 - Just Showing Up today. I'm really busy troubleshooting my crashed laptop. I really have no idea why and how to fix it.
 - Happy Coding!
 - Happy Learning!
+
+Day 75/100 R3: 12 July 2026, Saturday (≈5mins ; >25mins❌)
+> What have I done today?
+- Just Showing Up today. I'm still have no idea why I can't open VScode properly in my laptop. I really have no idea how to fix it.
+- I'm busy today.
+- Happy Learning!
+
