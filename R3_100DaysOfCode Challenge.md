@@ -295,3 +295,10 @@ Day 75/100 R3: 12 July 2026, Sunday (≈5mins ; >25mins❌)
 - I'm busy today.
 - Happy Learning!
 
+Day 76/100 R3: 13 July 2026, Monday (≈5mins ; >25mins❌)
+> What have I done today?
+- Just Showing Up today. I'm really have no idea why I can't open VScode properly in my laptop. My C Drive in my laptop is too full. I really have no idea how to fix it.
+- I'm so very really busy today due to urgent school things.
+- Happy Learning!
+
+
