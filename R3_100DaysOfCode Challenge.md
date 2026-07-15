@@ -301,4 +301,10 @@ Day 76/100 R3: 13 July 2026, Monday (≈5mins ; >25mins❌)
 - I'm so very really busy today due to urgent school things.
 - Happy Learning!
 
+Day 77/100 R3: 15 July 2026, Wednesday (≈5mins ; >25mins❌)
+> What have I done today?
+- Sorry I missed yesterday. I really forgot to journal yesterday. I got sleep accidentally yesterday. My bad.
+- Just Showing Up today. I just read about the Embedded Systems Engineering career. Today I'm really so busy this day.
+- Happy Learning!
+
 
