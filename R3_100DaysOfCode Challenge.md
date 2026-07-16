@@ -307,4 +307,8 @@ Day 77/100 R3: 15 July 2026, Wednesday (≈5mins ; >25mins❌)
 - Just Showing Up today. I just read about the Embedded Systems Engineering career. Today I'm really so busy this day.
 - Happy Learning!
 
-
+Day 78/100 R3: 16 July 2026, Thursday (≈5mins ; >25mins❌)
+> What have I done today?
+- I procrastinated a lot just to do programming. I don't know why I procrastinated. I feel so lazy for today.
+- Just Showing Up today. I just read about the Embedded Systems Engineering career.
+- Happy Learning!
