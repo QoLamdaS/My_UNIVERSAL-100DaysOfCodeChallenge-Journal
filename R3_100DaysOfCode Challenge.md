@@ -318,3 +318,9 @@ Day 79/100 R3: 17 July 2026, Friday (≈5mins ; >25mins❌)
 - I procrastinated a lot just to do programming againnn. I feel very lazy for today.
 - Just Showing Up today. I just read about Python basics. I really sleepy and exhausted.
 - Happy Learning!
+
+Day 80/100 R3: 18 July 2026, Saturday (≈5mins ; >25mins❌)
+> What have I done today?
+- I really have no idea why I can't open VScode properly on my laptop again. I don't know how to fix that.
+- Just Showing Up today. Trying to troubleshoot VScode on my laptop. Also I'm really so busy today.
+- Happy Learning!
