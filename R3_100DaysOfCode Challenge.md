@@ -336,3 +336,8 @@ Day 82/100 R3: 20 July 2026, Monday (≈5mins ; >25mins❌)
 - I really have no idea why I often my VScode crash out on my laptop. I need to fix it. Busy for today.
 - Happy Learning!
 
+Day 83/100 R3: 21 July 2026, Tuesday (≈5mins ; >25mins❌)
+> What have I done today?
+- Reading a little bit about Python for Embedded System Engineering. 
+- Just showing up. I feel really so exhausted and sleepy due to my demanding schoolwork.
+- Happy Learning!
