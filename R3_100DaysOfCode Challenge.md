@@ -341,3 +341,11 @@ Day 83/100 R3: 21 July 2026, Tuesday (≈5mins ; >25mins❌)
 - Reading a little bit about Python for Embedded System Engineering. 
 - Just showing up. I feel really so exhausted and sleepy due to my demanding schoolwork.
 - Happy Learning!
+
+Day 84/100 R3: 22 July 2026, Tuesday (≈35mins ; >25mins✅)
+> What have I done today?
+- I am trying to learn programming with other methods by using AI to build independent random projects. Honestly I really have no idea. I'm just starting out utilized AI extensively for programming, especially independent projects.
+- Right now I am trying to build "That's Not My Neighbor" video game clone in Python CLI version with AI. THE-REPO -> https://github.com/QoLamdaS/Independent-Multiple_Random-Projects.git
+- I'm using AI for programming building independent projects because I want to force myself to avoid stagnating my programming growth for weeks and exit my comfort zone. I'm also trying to motivate myself to do programming seriously if possible.
+- Happy Coding!
+- Happy Learning!
