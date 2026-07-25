@@ -4,3 +4,6 @@ All of my previous works & 100DaysOfCode Challenge journals is all LINK here = h
 
 My FreeCodeCamp website account LINK = https://www.freecodecamp.org/noob_feromon
 
+Independent-Multiple_Random-Projects = https://github.com/QoLamdaS/Independent-Multiple_Random-Projects.git 
+
+
