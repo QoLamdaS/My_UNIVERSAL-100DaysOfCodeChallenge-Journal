@@ -365,3 +365,14 @@ Day 86/100 R3: 24 July 2026, Friday (≈60mins ; >25mins✅)
 - Today, I still have the common cold sick moderately.
 - HAPPY CODING!!!
 - Happy Learning!
+
+Day 87/100 R3: 25 July 2026, Saturday (≈90mins ; >25mins✅)
+> What have I done today?
+- Fixed the (il)logical error that Snake can't die from hitting itself by reversing from while True loop to the previous one "while game_is_on = True" for gameover "Snake Game FULLSCREEN" app independent random project. My repo for INDEPENDENT RANDOM PROJECTS -> https://github.com/QoLamdaS/Independent-Multiple_Random-Projects.git 
+- DEBUGGING is really hard, and the solution is so bizarre and nonsensical so true lol.
+- Trying to play the TryHackMe website for me as an absolute beginner in the cybersecurity field.
+- Solving some HackerRank algorithm easy problems using Python. I am doing it to prepare for upcoming interviews.
+- Luckily, I make time to do programming seriously beyond 25 minutes.
+- HAPPY CODING!!!
+![alt text](image-2.png) 
+![alt text](image-3.png)
