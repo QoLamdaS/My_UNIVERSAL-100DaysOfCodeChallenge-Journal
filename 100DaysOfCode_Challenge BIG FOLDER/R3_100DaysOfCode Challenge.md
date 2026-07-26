@@ -376,3 +376,13 @@ Day 87/100 R3: 25 July 2026, Saturday (≈90mins ; >25mins✅)
 - HAPPY CODING!!!
 ![alt text](image-2.png) 
 ![alt text](image-3.png)
+
+Day 88/100 R3: 26 July 2026, Sunday (≈65mins ; >25mins✅)
+> What have I done today?
+- Fixed the logical error (bug) that snake food can't spawn beyond the previous screen in the "Snake Game FULLSCREEN" app independent project inside my repo Independent-Multiple_Random-Projects. The solution, actually, I'm a bit confused, but it's okay; it works at least.
+- Finally ended my "Snake Game FULLSCREEN" app project today. SATISFACTORY!
+- Solved compareTheTriplets HackerRank algorithm problem using Python for the first time in my programming journey. I need a little bit hints to solve it by myself. My head overheated lol =)
+- Luckily, I made time to do programming seriously beyond 25 minutes today.
+- HAPPY CODING!!!
+![alt text](image-1.png)
+![alt text](image-4.png)
