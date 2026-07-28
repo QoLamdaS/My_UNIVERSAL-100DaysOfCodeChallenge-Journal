@@ -396,5 +396,10 @@ Day 89/100 R3: 27 July 2026, Monday (≈45mins ; >25mins✅)
 - HAPPY CODING!!!
 ![alt text](image-5.png)
 
-
+Day 90/100 R3: 28 July 2026, Tuesday (≈25mins ; >25mins✅)
+> What have I done today?
+- I'm really so busy for today and also really exhausted.
+- Still stucking to solve 2D Array Hourglass problem in HackerRank Data Structure. I really have no idea and my head overheated. I really don't know.
+- HAPPY CODING!!!
+![alt text](image-6.png)
 
