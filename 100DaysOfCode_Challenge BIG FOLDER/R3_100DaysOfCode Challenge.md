@@ -421,5 +421,15 @@ Day 92/100 R3: 30 July 2026, Wednesday (≈15mins ; >25mins❌)
 - HAPPY CODING!!!
 ![alt text](image-10.png)
 
+Day 93/100 R3: 31 July 2026, Thursday (60mins ; >25mins✅)
+> What have I done today?
+- Researched for a considerable amount of time on "How to learn & practice DSA concepts effectively and affordably for a Python programmer novice in DSA" and then finally I found NeetCode 150 for learning DSA for a rookie programmer. 
+- Set up LeetCode, NeetCode, and GitHub repo for NeetCode all submissions for the first time today for me.
+- Solved the first of NeetCode 150 challenge "Contains Duplicate" that was deceptively simple for me as a novice in DSA problems. My brain fried up lol =)
+- Luckily, I made time for programming today.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+![alt text](image-11.png)
+
 
 
