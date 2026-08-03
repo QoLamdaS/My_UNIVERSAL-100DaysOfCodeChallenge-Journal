@@ -451,5 +451,15 @@ Day 95/100 R3: 2 August 2026, Sunday (≈85mins ; >25mins✅)
 ![alt text](image-15.png)
 ![alt text](image-16.png)
 
+Day 96/100 R3: 3 August 2026, Monday (≈55mins ; >25mins✅)
+> What have I done today?
+- I got distracted a bit while programming. Also I'm really busy for today due to homework.
+- Finally, I understand "hopefully" my solution code for solving the third of NeetCode 150 Two Sum problem that was deceptively simple. My brain got melted lol =)
+- Trying to solve the fourth of NeetCode 150 Group Anagrams problem. I really have no idea.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+![alt text](image-17.png)
+![alt text](image-18.png)
+
 
 
