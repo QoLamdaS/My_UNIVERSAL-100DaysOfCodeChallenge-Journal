@@ -461,5 +461,13 @@ Day 96/100 R3: 3 August 2026, Monday (≈55mins ; >25mins✅)
 ![alt text](image-17.png)
 ![alt text](image-18.png)
 
-
-
+Day 97/100 R3: 4 August 2026, Tuesday (≈30mins ; >25mins✅)
+> What have I done today?
+- Today I procrastinated learning programming today hehehehe =D
+- Also, I got distracted a little bit while programming and feel lazyyyyy. 
+- Reviewed solving NeetCode 150 Contains Duplicate problem from scratch again without peeking at the hints. Fortunately, I can solve it a bit easily yeay =)
+- Still trying to solve the fourth of NeetCode 150 Group Anagrams problem.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+![alt text](image-20.png)
+![alt text](image-19.png)
