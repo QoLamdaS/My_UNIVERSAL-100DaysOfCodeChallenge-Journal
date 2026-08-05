@@ -471,3 +471,11 @@ Day 97/100 R3: 4 August 2026, Tuesday (≈30mins ; >25mins✅)
 - HAPPY CODING!!!
 ![alt text](image-20.png)
 ![alt text](image-19.png)
+
+Day 98/100 R3: 5 August 2026, Wednesday (≈5mins ; >25mins❌)
+> What have I done today?
+- Today is just showing up only. I got procrastinated a lot due to sudden private highly emotional turmoils for me today. I feel so exhausted and really tired from my anxieties really.
+- Just showing up by trying to solve the fourth of NeetCode 150 Group Anagrams problem.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+![alt text](image-21.png)
