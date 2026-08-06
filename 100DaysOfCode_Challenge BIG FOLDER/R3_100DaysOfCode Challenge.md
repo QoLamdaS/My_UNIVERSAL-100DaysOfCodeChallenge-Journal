@@ -479,3 +479,16 @@ Day 98/100 R3: 5 August 2026, Wednesday (≈5mins ; >25mins❌)
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
 ![alt text](image-21.png)
+
+Day 99/100 R3: 6 August 2026, Thursday
+Daily Minimum >60mins✅; TOTAL => ≈112 mins
+> What did I do this day?
+- Just a quick review solved the NeetCode 150 Two Sum problem different solution code with peeking hints hehehe =)
+- Navigating First Contributions open source project with Forking, PR, Etc. I don't know lol =)
+- Finally just completed the standard fork -> clone -> edit -> PR (Pull Request)  workflow for contributors using VScode GUI Tutorial README. Finally, I can contribute open-source project using the standard workflow. Hopefully I contributing open-source projects often.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+![alt text](image-22.png)
+![alt text](image-23.png)
+![alt text](image-24.png)
+![alt text](image-25.png)
