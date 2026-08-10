@@ -25,3 +25,15 @@ Daily Minimum >60mins❌; TOTAL => ≈40 mins
 - Happy Learning!
 ![alt text](image-4.png)
 
+Day 2/100 R4: 10 August 2026, Monday
+Daily Minimum >60mins✅; TOTAL => ≈75 mins
+> What did I do this day?
+- Brainstorming independent project ideas and then later I want to build the simplest programming project about AI. Finally, Simple Text-based Email Spam Project inside my GitHub repo Independent-Multiple_Random-Projects = https://github.com/QoLamdaS/Independent-Multiple_Random-Projects.git
+- Coding using Gemini AI and trying to figure it out adding feature CSV file in Pandas. It's harder than I thought to build this project even using Gemini AI lol =)
+- I need to take a programming break for today. I can't think lol.
+- Today I am really busy studying for my upcoming exams tomorrow. 
+- Happy Learning!
+- HAPPY CODING!!!
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
