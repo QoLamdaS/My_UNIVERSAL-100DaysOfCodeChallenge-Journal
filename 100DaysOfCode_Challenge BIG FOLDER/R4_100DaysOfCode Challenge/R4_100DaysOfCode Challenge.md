@@ -37,3 +37,16 @@ Daily Minimum >60mins✅; TOTAL => ≈75 mins
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 ![alt text](image-7.png)
+
+Day 3/100 R4: 11 August 2026, Tuesday
+Daily Minimum >60mins❌; TOTAL => ≈25 mins
+> What did I do this day?
+- Added a feature incorporating CSV file Pandas to my independent project Simple Text-based Email Spam. And then refactored a bit.
+- Simple Text-based Email Spam Project inside my public GitHub repo Independent-Multiple_Random-Projects = https://github.com/QoLamdaS/Independent-Multiple_Random-Projects.git
+- Added a larger dataset in a single CSV file "emails.csv" to feed/train the AI model for identifying spam or ham unseen email messages.
+- Coding with a junior engineer Gemini AI (vibe coding). Trying to adapt new things =)
+- I am really busy studying for physics and maths exams tomorrow. It's really tough exams for me.
+- Happy Learning!!!
+- HAPPY CODING!!!
+![alt text](image-8.png)
+![alt text](image-9.png)
