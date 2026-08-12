@@ -50,3 +50,14 @@ Daily Minimum >60mins❌; TOTAL => ≈25 mins
 - HAPPY CODING!!!
 ![alt text](image-8.png)
 ![alt text](image-9.png)
+
+Day 4/100 R4: 12 August 2026, Wednesday
+Daily Minimum >60mins❌; TOTAL => ≈25 mins
+> What did I do this day?
+- Still working Simple Text-based Email Spam Project inside my public GitHub repo Independent-Multiple_Random-Projects = https://github.com/QoLamdaS/Independent-Multiple_Random-Projects.git 
+- Added a 'prototype' feature where the user can input a custom email message to classify as spam or ham. Trying to polish UI/UX for users; temporarily CLI first and then maybe upgrade to GUI.
+- Right now I'm really exhausted and so sleepy. I'm really so exhausted.
+- Happy Learning!!!
+- HAPPY CODING!!!
+![alt text](image-10.png)
+
