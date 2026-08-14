@@ -74,4 +74,15 @@ Daily Minimum >60mins✅; TOTAL => ≈70 mins
 ![alt text](image-11.png)
 ![alt text](image-12.png)
 
+Day 6/100 R4: 14 August 2026, Friday
+Daily Minimum >60mins✅; TOTAL => ≈75 mins
+> What did I do this day?
+- I got distracted a bit while doing programming again hehehe :D
+- Navigating Google AI Studio for programming/software engineering for the first time for me.
+- Googling/researching how to use AI wisely to upskill my real programming skills and also avoid the form of Tutorial Hell (e.g. Vibe Coding blindly). And then, finally, I give Gemini AI instructions to act like a Socrates Tutor and explicitly avoid any form of Tutorial Hell when building projects (Project-Based Learning). Hopefully it works as I expected tomorrow.
+- Just starting to work on a WhatsApp Bot project for my phone's daily notifications.
+- Happy Learning!!!
+- HAPPY CODING!!!
+![alt text](image-13.png)
+![alt text](image-14.png)
 
