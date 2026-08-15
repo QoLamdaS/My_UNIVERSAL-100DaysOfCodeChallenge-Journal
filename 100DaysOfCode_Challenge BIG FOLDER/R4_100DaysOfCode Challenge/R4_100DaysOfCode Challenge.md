@@ -86,3 +86,20 @@ Daily Minimum >60mins✅; TOTAL => ≈75 mins
 ![alt text](image-13.png)
 ![alt text](image-14.png)
 
+Day 7/100 R4: 15 August 2026, Saturday
+Daily Minimum >60mins✅; TOTAL => ≈168 mins
+> What did I do this day?
+- I got distracted a bit while doing programming also again hehehe xd :D
+- Starting to work on "Simple-WhatsApp-Bot-ToMyPhone-Project" for my phone daily notification.
+- Added boilerplate code and navigated Twilio with some help from Google AI Studio to teach me like a Socratic Tutor.
+- Rewriting major overhaul of README.md in my universal #100DaysOfCode Challenge journals public repo to be more professional and cleaner for outsiders.
+- I am trying to force myself to scrap my old habits in Git/GitHub and replacing with industry-standard good practices in Git/GitHub for building public repo projects. I'm not lying; I'm confused and struggling to understand Git/GitHub, honestly. I really have no idea.
+- So in a nutshell, I must use Git/GitHub in a good practice industry-standard way from now on, ideal for an outsider seeing my public repo.
+- Happy Learning!!!
+- HAPPY CODING!!!
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+
