@@ -1,6 +1,7 @@
 # 100-Days-Of-Code Challenge Round 4 (START: 8 August 2026, Saturday)
 # Quote of This Round: "Life is like riding a bicycle. To keep your balance, you must keep moving." -Albert Einstein.
 
+#100-days-of-code
 Day 0/100 R4: 8 August 2026, Saturday
 Daily Minimum >60mins✅; TOTAL => ≈75 mins
 > What did I do this day?
@@ -16,6 +17,7 @@ Daily Minimum >60mins✅; TOTAL => ≈75 mins
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 
+#100-days-of-code
 Day 1/100 R4: 9 August 2026, Sunday
 Daily Minimum >60mins❌; TOTAL => ≈40 mins
 > What did I do this day?
@@ -25,6 +27,7 @@ Daily Minimum >60mins❌; TOTAL => ≈40 mins
 - Happy Learning!
 ![alt text](image-4.png)
 
+#100-days-of-code
 Day 2/100 R4: 10 August 2026, Monday
 Daily Minimum >60mins✅; TOTAL => ≈75 mins
 > What did I do this day?
@@ -38,6 +41,7 @@ Daily Minimum >60mins✅; TOTAL => ≈75 mins
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 
+#100-days-of-code
 Day 3/100 R4: 11 August 2026, Tuesday
 Daily Minimum >60mins❌; TOTAL => ≈25 mins
 > What did I do this day?
@@ -51,6 +55,7 @@ Daily Minimum >60mins❌; TOTAL => ≈25 mins
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 
+#100-days-of-code
 Day 4/100 R4: 12 August 2026, Wednesday
 Daily Minimum >60mins❌; TOTAL => ≈25 mins
 > What did I do this day?
@@ -61,6 +66,7 @@ Daily Minimum >60mins❌; TOTAL => ≈25 mins
 - HAPPY CODING!!!
 ![alt text](image-10.png)
 
+#100-days-of-code
 Day 5/100 R4: 13 August 2026, Thursday
 Daily Minimum >60mins✅; TOTAL => ≈70 mins
 > What did I do this day?
@@ -74,6 +80,7 @@ Daily Minimum >60mins✅; TOTAL => ≈70 mins
 ![alt text](image-11.png)
 ![alt text](image-12.png)
 
+#100-days-of-code
 Day 6/100 R4: 14 August 2026, Friday
 Daily Minimum >60mins✅; TOTAL => ≈75 mins
 > What did I do this day?
@@ -86,6 +93,7 @@ Daily Minimum >60mins✅; TOTAL => ≈75 mins
 ![alt text](image-13.png)
 ![alt text](image-14.png)
 
+#100-days-of-code
 Day 7/100 R4: 15 August 2026, Saturday
 Daily Minimum >60mins✅; TOTAL => ≈168 mins
 > What did I do this day?
@@ -102,4 +110,14 @@ Daily Minimum >60mins✅; TOTAL => ≈168 mins
 ![alt text](image-17.png)
 ![alt text](image-18.png)
 ![alt text](image-19.png)
+
+#100-days-of-code
+Day 8/100 R4: 16 August 2026, Sunday
+Daily Minimum >60mins❌; TOTAL => ≈8 mins
+> What did I do this day?
+- Today I got really busy due to busy family gatherings today 👨‍👩‍👧‍👦🚗🍽️🌴🧺. So today I'm just showing up only.
+- Just reading about Git/GitHub common practices.
+- Happy Learning!
+![alt text](image-20.png)
+
 
