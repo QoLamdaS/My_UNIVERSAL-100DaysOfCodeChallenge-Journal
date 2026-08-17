@@ -120,5 +120,16 @@ Daily Minimum >60mins❌; TOTAL => ≈8 mins
 - Happy Learning!
 ![alt text](image-20.png)
 
-
+#100-days-of-code
+Day 9/100 R4: 17 August 2026, Monday
+Daily Minimum >60mins✅; TOTAL => ≈75 mins
+> What did I do this day?
+- Practicing industry-standard practices using Git/GitHub for API keys and similarly by setting up .env and .gitignore files inside VS Code firstly before committing. Good for me to really know.
+- Implemented secrets using .env and .gitignore file inside VS Code for building my independent project "Simple WhatsApp Bot to-my-phone"; seemingly no problem after implementing this. My GitHub public repo = https://github.com/QoLamdaS/Simple-WhatsApp-Bot-ToMyPhone-Project.git
+- I'm trying really hard to do debugging in building "Simple WhatsApp Bot to-my-phone" mini-project. Finding a mysterious bug. I really have no idea how to solve this. Maybe tomorrow I can solve it hopefully hehehe :D
+- Trying to consistently build independent projects.
+- HAPPY LEARNING!
+- HAPPY CODING!!!
+![alt text](image-21.png)
+![alt text](image-22.png)
 
