@@ -133,3 +133,17 @@ Daily Minimum >60mins✅; TOTAL => ≈75 mins
 ![alt text](image-21.png)
 ![alt text](image-22.png)
 
+#100-days-of-code
+Day 10/100 R4: 18 August 2026, Tuesday
+Daily Minimum >60mins✅; TOTAL => ≈60 mins
+> What did I do this day?
+- Trying really hard to do debugging in building "Simple WhatsApp Bot to-my-phone" mini-project. Reading possible errors documentations. My GitHub public repo for this current project working on = https://github.com/QoLamdaS/Simple-WhatsApp-Bot-ToMyPhone-Project.git
+- I am trying to implement AI solutions but strangely still caught the same error. This bug deceptively simple at glance for me. So frustrating to do debugging LMAO hehehehe =D
+- Maybe tomorrow the bug fixed hopefully. So true that debugging is really harder than coding lol.
+- HAPPY LEARNING!
+- HAPPY CODING!!!
+![alt text](image-23.png)
+![alt text](image-24.png)
+![alt text](image-25.png)
+
+
