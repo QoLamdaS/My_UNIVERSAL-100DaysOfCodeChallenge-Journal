@@ -164,6 +164,17 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Hopefully tomorrow will be better than today. I feel so down and exhausted today.
 - Happy Learning!
 
+#100-days-of-code
+Day 13/100 R4: 21 August 2026, Friday
+Daily Minimum >60mins❌; TOTAL => ≈38 mins
+> What did I do this day?
+- Trying desperately hard to get rid of the same bug from yesterday in my current project "Simple WhatsApp Bot to-my-phone". My GitHub public repo for this current mini-project = https://github.com/QoLamdaS/Simple-WhatsApp-Bot-ToMyPhone-Project.git
+- Maybe I need to refactor completely I think tomorrow.
+- Today I'm so busy and troubled with my personal problems (private).
+- Happy Coding!
+- Happy Learning!
+![alt text](image-27.png)
+
 
 
 
