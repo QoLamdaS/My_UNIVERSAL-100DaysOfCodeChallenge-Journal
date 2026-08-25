@@ -205,5 +205,14 @@ Daily Minimum >60mins❌; TOTAL => ≈30 mins
 - Happy Learning!
 ![alt text](image-29.png)
 
+#100-days-of-code
+Day 17/100 R4: 25 August 2026, Tuesday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+- I severely procrastinated all day to do programming.  I'm so sorry =(
+- I'm really busy fixing my troubled personal problems. I'm so anxious.
+- Just Showing Up for today, read DSA concepts a bit (Googling).
+- Tomorrow I "must" take serious programming. Hopefully yes.
+- Happy Learning!
 
 
