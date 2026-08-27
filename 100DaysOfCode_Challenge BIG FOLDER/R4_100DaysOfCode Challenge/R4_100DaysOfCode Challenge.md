@@ -219,3 +219,15 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 > Why I missed that day:
 - I missed that day (26 August 2026, Wednesday) because my mother went to the hospital urgently (emergencies). And I honestly, really forgot to do journaling #100-days-of-code challenge for that day. I'm sorry for missing that day. 
 - At least do not miss two days consecutively "Never Miss Twice" rule by James Clear (Don't miss twice in a row).
+
+#100-days-of-code
+Day 18/100 R4: 27 August 2026, Thursday
+Daily Minimum >60mins❌; TOTAL => ≈45 mins
+> What did I do this day?
+-  My GitHub public repo for this current mini-project = https://github.com/QoLamdaS/Simple-WhatsApp-Bot-ToMyPhone-Project.git
+- Added a separate bugfix branch for debugging my current working "Simple WhatsApp Bot to-my-phone" mini-project.
+- Hopelessly debugging and refactoring without producing any single solution for the same error in my current working project. It's really frustrating and so undeniable.
+- I think maybe I should abandon my current working project for good. Yeah, maybe I do that tomorrow.
+- Happy Coding!
+- Happy Learning!
+![alt text](image-30.png)
