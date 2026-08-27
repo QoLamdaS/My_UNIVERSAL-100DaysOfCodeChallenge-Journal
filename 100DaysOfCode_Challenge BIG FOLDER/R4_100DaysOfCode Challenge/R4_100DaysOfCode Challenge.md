@@ -215,4 +215,7 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Tomorrow I "must" take serious programming. Hopefully yes.
 - Happy Learning!
 
-
+🧊Day 18/100 R4❄️: 26 August 2026, Wednesday🧊
+> Why I missed that day:
+- I missed that day (26 August 2026, Wednesday) because my mother went to the hospital urgently (emergencies). And I honestly, really forgot to do journaling #100-days-of-code challenge for that day. I'm sorry for missing that day. 
+- At least do not miss two days consecutively "Never Miss Twice" rule by James Clear (Don't miss twice in a row).
