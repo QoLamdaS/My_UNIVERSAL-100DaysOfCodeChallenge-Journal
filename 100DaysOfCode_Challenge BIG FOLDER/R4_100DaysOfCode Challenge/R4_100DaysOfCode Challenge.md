@@ -231,3 +231,18 @@ Daily Minimum >60mins❌; TOTAL => ≈45 mins
 - Happy Coding!
 - Happy Learning!
 ![alt text](image-30.png)
+
+#100-days-of-code
+Day 19/100 R4: 28 August 2026, Friday
+Daily Minimum >60mins❌; TOTAL => ≈90 mins
+> What did I do this day?
+- Today, a bit distracted while programming doomscrolling social media. Don't doomscroll.
+-  My GitHub public repo for my "Simple WhatsApp Bot to-my-phone" mini-project  = https://github.com/QoLamdaS/Simple-WhatsApp-Bot-ToMyPhone-Project.git
+- Add a simple official README professionally for "Simple WhatsApp Bot to-my-phone" mini-project  as a clousure (DISCONTINUED) due to cost constraints (NOT FREE FOR BOT) with the help of Gemini AI for writing it professionally hehehe =)
+- Just starting to build a personal Discord bot using Python with Google AI Studio teaching act like a Socratic Tutor. Firstly brainstorming Discord vs WhatsApp vs Telegram and then setting up a public GitHub repo optimally with good practices.
+- Check my current working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git
+- HAPPY CODING!!!
+- HAPPY LEARNING!!!
+![alt text](image-31.png)
+![alt text](image-32.png)
+
