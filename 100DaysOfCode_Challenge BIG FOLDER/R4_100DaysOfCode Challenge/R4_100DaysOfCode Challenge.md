@@ -270,4 +270,15 @@ Daily Minimum >60mins❌; TOTAL => ≈20 mins
 - HAPPY LEARNING!!!
 ![alt text](image-35.png)
 
-
+#100-days-of-code
+Day 22/100 R4: 31 August 2026, Monday
+Daily Minimum >60mins✅; TOTAL => ≈60 mins
+> What did I do this day?
+- Honestly I still feel confused and overwhelmed about how to utilize AI LLMs effectively and efficiently for upskilling my programming skills actually lol. I am trying to apply AI FLUENCY Anthropic as a Socratic Coding Mentor through custom instructions in Google AI Studio for building a "Simple Personal Discord Bot" mini-project using Python.
+- Doing programming on "Simple Personal Discord Bot" mini-project, enabling it to respond to custom commands and send scheduled reminders. Using Google AI Studio Socratic Coding Mentor and googling as a tool while doing programming.
+- Check my current working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git
+- HAPPY CODING!!!
+- HAPPY LEARNING!!!
+![alt text](image-36.png)
+![alt text](image-37.png)
+![alt text](image-38.png)
