@@ -301,3 +301,22 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Just showing up for today by just reading a bit about programming basics 101.
 - Today I'm really busy today and got sick headaches + Common Cold moderately (UNLUCKY TODAY)
 - Happy Learning!
+
+
+#100-days-of-code
+Day 25/100 R4: 3 September 2026, Thursday
+Daily Minimum >60mins✅; TOTAL => ≈116 mins
+> What did I do this day?
+- Completed achieving MVP "Simple Personal Discord Bot" mini-project goals (my Python code is alright), but it doesn't work as supposedly.
+- The code is actually really simple. But, if I try to send "!ping" on my own testing bot Discord server, the bot doesn't reply anything at all and also my bot can't get into my testing bot Discord server, even I try to forcefully fix that bug like enabling all permissions and grant privileged access. This bug really makes me incredibly more confused than ever and so time-consuming.
+- Really insanely hard debugging today (70% of the time was spent doing debugging)
+- So today basically I'm debugging one of the hardest types of bugs in software engineering. The bug is really unusual and so strange. I really have no idea. Maybe tomorrow will be better, hopefully. I'm so exhausted from debugging.
+- Check my current working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git
+- HAPPY CODING!!!
+- HAPPY LEARNING!!!
+![alt text](image-40.png)
+![alt text](image-41.png)
+![alt text](image-42.png)
+![alt text](image-43.png)
+
+
