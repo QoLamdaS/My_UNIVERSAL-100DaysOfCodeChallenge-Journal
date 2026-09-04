@@ -319,4 +319,12 @@ Daily Minimum >60mins✅; TOTAL => ≈116 mins
 ![alt text](image-42.png)
 ![alt text](image-43.png)
 
+#100-days-of-code
+Day 26/100 R4: 4 September 2026, Friday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+- Really so exhausted due to straight severe sleep deprivation last weeks. I really need to take a break only for today.
+- Just showing up by reading Python programming 101 basics.
+- Happy Learning!
+
 
