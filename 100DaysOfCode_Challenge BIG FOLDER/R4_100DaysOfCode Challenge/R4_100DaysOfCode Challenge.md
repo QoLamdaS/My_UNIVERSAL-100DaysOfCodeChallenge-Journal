@@ -327,4 +327,24 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Just showing up by reading Python programming 101 basics.
 - Happy Learning!
 
+#100-days-of-code
+Day 27/100 R4: 5 September 2026, Friday
+Daily Minimum >60mins✅; TOTAL => ≈105 mins
+> What did I do this day?
+- Optimized VS Code to be faster and not laggy on my low-end laptop.
+- Finally, my Discord bot replies "pong🏓!" after I send "!ping" as intended. I already spent an hour debugging this problem by asking multiple times to Gemini AI with "useless" generated solutions for fixing this problem.
+- The root cause of the problem is actually about OAuth2 Scopes (only enable bot and application.commands; not by enabling all of them) in the Discord Developer Portal. My Python code is actually 100% alright from yesterday. I know the solution from screenshotting and then asking it to Gemini AI. The prompt is really crucial to utilize AI effectively. I think the solution is so bizarre lol.
+- Finally, I can advance the "py-simple-personal-discord-bot" mini-project developing more features. I'm getting rid of yesterday's problem YEAY!!!!
+- It is so frustrating and so tiring to get rid of this problem. Finally, I successfully fixed it YEAY!!!!
+- Check my current working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git
+- HAPPY CODING!!!
+- Happy Learning!
+![alt text](image-44.png)
+![alt text](image-45.png)
+![alt text](image-46.png)
+![alt text](image-47.png)
+![alt text](image-48.png)
+
+
+
 
