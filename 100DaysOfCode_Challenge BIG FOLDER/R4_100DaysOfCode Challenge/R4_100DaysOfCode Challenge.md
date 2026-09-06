@@ -328,7 +328,7 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Happy Learning!
 
 #100-days-of-code
-Day 27/100 R4: 5 September 2026, Friday
+Day 27/100 R4: 5 September 2026, Saturday
 Daily Minimum >60mins✅; TOTAL => ≈105 mins
 > What did I do this day?
 - Optimized VS Code to be faster and not laggy on my low-end laptop.
@@ -345,6 +345,16 @@ Daily Minimum >60mins✅; TOTAL => ≈105 mins
 ![alt text](image-47.png)
 ![alt text](image-48.png)
 
-
+#100-days-of-code
+Day 28/100 R4: 6 September 2026, Sunday
+Daily Minimum >60mins❌; TOTAL => ≈35 mins
+> What did I do this day?
+- I just showed up today because I'm so busy for this Sunday because I have spending quality time with my family for this weekend 👨‍👩‍👧‍👦🚗🍽️🌴🧺🏓.
+- Merging the feature MVP branch into the production-ready main branch using good practices Git/GitHub for "py-simple-personal-discord-bot" mini-project.
+- And then I learned about some of the GitHub branching strategies. I picked the GitHub Flow branching strategy because it's simple and recommended for mini-projects hehehe =)
+- Check my current working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git
+- HAPPY CODING!!!
+- Happy Learning!
+![alt text](image-49.png)
 
 
