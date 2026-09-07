@@ -357,4 +357,17 @@ Daily Minimum >60mins❌; TOTAL => ≈35 mins
 - Happy Learning!
 ![alt text](image-49.png)
 
+#100-days-of-code
+Day 29/100 R4: 7 September 2026, Monday
+Daily Minimum >60mins❌; TOTAL => ≈10 mins
+> What did I do this day?
+- I'm so busy rushing to complete my some of the heavy homework today. I feel so exhausted.
+- Just checking it out at a glance for the "py-simple-personal-discord-bot" mini-project.
+- Check my current working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git 
+- Reading about CTFs and websites to self-learn CTFs for free as a beginner. Then I know picoCTF website for self-learning cybersecurity.
+- I really have no idea why all day I am so exhausted and so sleepy.
+- Happy Learning!
+![alt text](image-50.png)
+![alt text](image-51.png)
+
 
