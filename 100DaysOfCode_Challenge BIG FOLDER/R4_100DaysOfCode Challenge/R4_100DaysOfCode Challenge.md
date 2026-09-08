@@ -370,4 +370,20 @@ Daily Minimum >60mins❌; TOTAL => ≈10 mins
 ![alt text](image-50.png)
 ![alt text](image-51.png)
 
+#100-days-of-code
+Day 30/100 R4: 8 September 2026, Tuesday
+Daily Minimum >60mins✅; TOTAL => ≈145 mins
+> What did I do this day?
+- Added try-except feature for handling some sort of possible edge case errors in "py-simple-personal-discord" mini-project. Adding this feature was actually harder than I thought lol (deceptively simple), given the constraints of this unique mini-project.
+- Building a feature that my personal Discord bot always running 24/7 online. So far, the tech stack I chose is Oracle Cloud Always Free Tier and Docker through a Dockerfile recipe.
+- Trying to self-learn using Docker containerization tech for my mini-project with the help of Google AI Studio acting as a Socratic Coding Mentor "wisely". I feel a bit confused and have no idea lmao =)
+- Check my current working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git 
+- I don't know why I still also feel sleepy and exhausted. I have no idea.
+- HAPPY CODING!!!
+- HAPPY LEARNING!!!
+![alt text](image-52.png)
+![alt text](image-53.png)
+![alt text](image-54.png)
+![alt text](image-55.png)
+
 
