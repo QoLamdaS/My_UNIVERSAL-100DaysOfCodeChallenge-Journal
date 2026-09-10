@@ -402,4 +402,16 @@ Daily Minimum >60mins✅; TOTAL => ≈60 mins
 ![alt text](image-58.png)
 ![alt text](image-59.png)
 
+#100-days-of-code
+Day 32/100 R4: 10 September 2026, Thursday
+Daily Minimum >60mins✅; TOTAL => ≈60 mins
+> What did I do this day?
+- Downloaded WSL through PowerShell Administrator on my "low-end" Windows 11 laptop with great difficulty. I had to delete junk files in OS C: drive and reboot multiple times. WSL is for running Docker containerization tech for the "py-simple-personal-discord" mini-project requirements to always running 24/7 online.
+- Right now, I must debug always crashing for initializing Docker in VS Code through PowerShell (my VS Code terminal). I must think out-of-the-box for fixing this kinds of problems. I really have no idea.
+- You can check my current progress on this working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git 
+- HAPPY LEARNING!
+![alt text](image-60.png)
+![alt text](image-61.png)
+![alt text](image-62.png)
+
 
