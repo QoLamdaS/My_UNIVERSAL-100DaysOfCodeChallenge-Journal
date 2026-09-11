@@ -414,4 +414,22 @@ Daily Minimum >60mins✅; TOTAL => ≈60 mins
 ![alt text](image-61.png)
 ![alt text](image-62.png)
 
+#100-days-of-code
+Day 33/100 R4: 11 September 2026, Friday
+Daily Minimum >60mins✅; TOTAL => ≈160 mins
+> What did I do this day?
+- Finally, I can set up the FULL PROPER Docker successfully in my "py-simple-personal-discord-bot" mini-project after I tried multiple times very hard since yesterday. I must think it out-of-the-box for solving today's problem.
+- Check my current progress on this working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git 
+- The key is actually limiting Docker resource consumption through a hard cap on my RAM and CPU cores (3 GB of RAM and 2 cores) in wsl2 PowerShell Administrator. It's incredibly necessary for running Docker on my low-end Windows 11 laptop.
+- Also, my Personal Discord Bot can run 24/7 with uptime even when my VS Code is closed, but with the caveat that Docker Desktop is running (my laptop must always be on).
+- So I think tomorrow I will integrate Docker with the Oracle Cloud Always Free Tier to create a true 24/7 uptime online my Personal Discord Bot. Hopefully it will be easier than setting up Docker on my low-end Windows 11 laptop lmao :]
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+![alt text](image-63.png)
+![alt text](image-64.png)
+![alt text](image-65.png)
+![alt text](image-66.png)
+![alt text](image-67.png)
+![alt text](image-68.png)
+
 
