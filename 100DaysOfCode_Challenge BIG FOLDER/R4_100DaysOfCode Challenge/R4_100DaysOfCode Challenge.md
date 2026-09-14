@@ -453,5 +453,20 @@ Daily Minimum >60mins❌; TOTAL => ≈15 mins
 - Happy Learning!
 ![alt text](image-70.png)
 
-
+#100-days-of-code
+Day 36/100 R4: 14 September 2026, Monday
+Daily Minimum >60mins✅; TOTAL => ≈105 mins
+> What did I do this day?
+- Trying to sign up new account in Oracle Cloud Infrastructure Always-Free Tier. I get stucked at Card payment (refused to pay). I don't understand.
+- I want to take a break (paused) temporarily from building the "py-simple-personal-discord-bot" mini-project especially developing True 24/7 Uptime Online feature. Honestly I feel a little bit burned out, but I'm still fine right now. Also, I paused due to I want to self-learn picoCTF.
+- I wrote a clean, simple, and "professional??" README.md with the help of Gemini AI for drafting in my "py-simple-personal-discord-bot" mini-project (Public GitHub repo).
+- Check my progress on this working mini-project = https://github.com/QoLamdaS/py-simple-personal-discord-bot.git 
+- I am so confused solving the first challenge of picoCTF for beginners. I really have no idea.
+- Honestly I feel incredibly lazy to journal this right now hehehe. I need to take a good rest for recharging.
+- HAPPY CODING!
+- HAPPY LEARNING!
+![alt text](image-71.png)
+![alt text](image-72.png)
+![alt text](image-73.png)
+![alt text](image-74.png)
 
