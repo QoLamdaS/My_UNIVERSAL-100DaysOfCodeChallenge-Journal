@@ -470,3 +470,15 @@ Daily Minimum >60mins✅; TOTAL => ≈105 mins
 ![alt text](image-73.png)
 ![alt text](image-74.png)
 
+#100-days-of-code
+Day 37/100 R4: 15 September 2026, Tuesday
+Daily Minimum >60mins✅; TOTAL => ≈60 mins
+> What did I do this day?
+- Today, self-learning programming or CTFs was ineffective and I got distracted. I really have no idea why.
+- I just need to take a good rest from 😴"programming"💤 only for today, hopefully. Also, I have to get disconnected for a while today to recharge my energy.
+- Honestly, I feel a bit confused about how to "play" and "solve" the first challenge picoCTF Obedient Cat challenge. It takes time for me to neutralize these feelings when self-studying CTFs. I am a complete beginner in CTFs hehehe =)
+- Downloaded Ubuntu inside WSL 2 on Windows 11 through PowerShell Administrator for setup self-studying CTFs competition (or maybe self-learning the Cybersecurity field).
+- HAPPY LEARNING!
+![alt text](image-75.png)
+![alt text](image-76.png)
+
