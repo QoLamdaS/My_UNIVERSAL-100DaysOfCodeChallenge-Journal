@@ -482,3 +482,14 @@ Daily Minimum >60mins✅; TOTAL => ≈60 mins
 ![alt text](image-75.png)
 ![alt text](image-76.png)
 
+#100-days-of-code
+Day 38/100 R4: 16 September 2026, Wednesday
+Daily Minimum >60mins❌; TOTAL => ≈10 mins
+> What did I do this day?
+- I was surprised that solving picoCTF Obedient Cat (the first challenge) is actually that easy and so direct. I feel so dumb lol.
+- Just showing up for today. I need to take a good 😴rest💤 right now because I got a severe headache tonight. I don't know why; maybe I sleep deprived??
+- HAPPY LEARNING!
+![alt text](image-77.png)
+![alt text](image-78.png)
+
+
