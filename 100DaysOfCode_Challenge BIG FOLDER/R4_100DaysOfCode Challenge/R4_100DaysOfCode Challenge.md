@@ -492,4 +492,12 @@ Daily Minimum >60mins❌; TOTAL => ≈10 mins
 ![alt text](image-77.png)
 ![alt text](image-78.png)
 
-
+#100-days-of-code
+Day 39/100 R4: 17 September 2026, Thursday
+Daily Minimum >60mins❌; TOTAL => ≈30 mins
+> What did I do this day?
+- Just showing up for today again. I need to take a 😴rest💤 again because I still have a severe headache today. It's real; I'm not excusing it to avoid "programming".
+- Trying to solve the Super SSH challenge picoCTF beginner problem. Starting to know some core Linux Ubuntu commands.
+- HAPPY LEARNING!
+![alt text](image-79.png)
+![alt text](image-80.png)
