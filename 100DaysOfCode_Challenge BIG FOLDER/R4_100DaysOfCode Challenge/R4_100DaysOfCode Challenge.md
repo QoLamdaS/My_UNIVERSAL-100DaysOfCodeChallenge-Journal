@@ -501,3 +501,12 @@ Daily Minimum >60mins❌; TOTAL => ≈30 mins
 - HAPPY LEARNING!
 ![alt text](image-79.png)
 ![alt text](image-80.png)
+
+#100-days-of-code
+Day 40/100 R4: 18 September 2026, Friday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+- Just showing up today again. I need to take a good sufficient 😴rest💤 again because I still have a severe headache today (sick). It's real; I'm not excusing it to avoid "programming".
+- Just reading about Python basics 101.
+- HAPPY LEARNING!
+
