@@ -510,3 +510,12 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Just reading about Python basics 101.
 - HAPPY LEARNING!
 
+#100-days-of-code
+Day 41/100 R4: 19 September 2026, Saturday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+- Just showing up today again by reading about the CTF Jeopardy competition. 
+- I'm busy today because I have to spend quality time with my family 👨‍👩‍👧‍👦🧺🚗🍽️🌴 this weekend. It's so real; I'm not excusing it to avoid "programming" (valid reason).
+- Also unfortunately, I procrastinated the whole day before starting programming seriously for today.
+- HAPPY LEARNING!
+
