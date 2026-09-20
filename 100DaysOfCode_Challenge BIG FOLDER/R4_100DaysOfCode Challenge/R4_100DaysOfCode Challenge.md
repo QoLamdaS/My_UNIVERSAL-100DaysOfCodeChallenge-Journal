@@ -519,3 +519,17 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Also unfortunately, I procrastinated the whole day before starting programming seriously for today.
 - HAPPY LEARNING!
 
+#100-days-of-code
+Day 42/100 R4: 20 September 2026, Sunday
+Daily Minimum >60mins❌; TOTAL => ≈25 mins
+> What did I do this day?
+- I'm still busy today because I have to spend quality time with my family 👨‍👩‍👧‍👦🧺🚗🍽️🌴 this weekend. NOT EXCUSING (valid reason).
+- Solved the Super SSH challenge on picoCTF by peeking at hints and googling core Ubuntu commands.
+- Just trying to solve "what's a net cat?" challenge on picoCTF.
+- Happy Coding!
+- Happy Learning!
+![alt text](image-81.png)
+![alt text](image-82.png)
+![alt text](image-83.png)
+
+
