@@ -532,4 +532,23 @@ Daily Minimum >60mins❌; TOTAL => ≈25 mins
 ![alt text](image-82.png)
 ![alt text](image-83.png)
 
+#100-days-of-code
+Day 43/100 R4: 21 September 2026, Monday
+Daily Minimum >60mins❌; TOTAL => ≈35 mins
+> What did I do this day?
+- Today I'm busy studying in school 🏫🎒📚 demanding subjects.
+- Solved "what's a net cat?" challenge on picoCTF section 1 Beginner (Sanity).
+- Funnily or weirdly, I can solve all four challenges in picoCTF section 2 (about the very basics of Cryptography in CTF) Beginner Course a bit easily. I understand all four challenges in Section 2 of the picoCTF Beginner Course easily.
+- Right now I'm extremely sleepy and so exhausted.
+- Happy Coding!
+- Happy Learning!
+![alt text](image-84.png)
+![alt text](image-85.png)
+![alt text](image-86.png)
+![alt text](image-87.png)
+![alt text](image-88.png)
+![alt text](image-89.png)
+![alt text](image-90.png)
+![alt text](image-91.png)
+
 
