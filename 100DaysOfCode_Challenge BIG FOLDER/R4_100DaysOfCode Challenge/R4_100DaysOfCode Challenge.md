@@ -551,4 +551,19 @@ Daily Minimum >60mins❌; TOTAL => ≈35 mins
 ![alt text](image-90.png)
 ![alt text](image-91.png)
 
+#100-days-of-code
+Day 44/100 R4: 22 September 2026, Tuesday
+Daily Minimum >60mins✅; TOTAL => ≈60 mins
+> What did I do this day?
+- Solved "Wave a flag" challenge in the picoCTF Beginner Course a bit easily.
+- Honestly, I feel incredibly confused and overwhelmed for how to utilize AI LLMs effectively but also efficiently and agile for self-learning software engineering skills nowadays in the era of AI.
+- Recently I learned meta-prompting, where I use AI to help me write a good prompt from my poorly optimized vague prompts for AI LLMs.
+- Planned to build a website documenting my lifelong journey of the 100 Days of Code Challenge as a portfolio, hopefully.
+- Right now I'm really very so extremely sleepy and so exhausted. It was a mistake that I skipped sleeping tonight, so my brain is becoming so ineffective and unproductive today. I feel regretful :]
+- Happy Coding!
+- Happy Learning!
+![alt text](image-92.png)
+![alt text](image-93.png)
+![alt text](image-94.png)
+![alt text](image-95.png)
 
