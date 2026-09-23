@@ -567,3 +567,15 @@ Daily Minimum >60mins✅; TOTAL => ≈60 mins
 ![alt text](image-94.png)
 ![alt text](image-95.png)
 
+#100-days-of-code
+Day 45/100 R4: 23 September 2026, Wednesday
+Daily Minimum >60mins✅; TOTAL => ≈67 mins
+> What did I do this day?
+- Honestly, I still feel incredibly confused and overwhelmed about how to utilize AI LLMs effectively but also efficiently and agilely for self-learning software engineering skills nowadays in the era of AI (not self-learning like Pre-AI-LLMs).
+- I think meta-prompting is a good idea tactic to help me write (e.g. drafting) a good prompt for asking AI LLMs. Meta-prompting in this context is creating a good prompt for the desired generated AI LLMs (Prompt Engineering) by using "asking" AI LLMs tools. At a glance, it feels funny strangely for me.
+- Trying to build a website portfolio documenting my lifelong journey of 100DaysOfCode Challenge by asking Google AI Studio. Using AI LLMs is becoming a standard in software engineering nowadays. I must keep adapting up-to-date, like riding a bicycle =)
+- You can check my current working project on my GitHub = https://github.com/QoLamdaS/website-100daysofcode-journey-django.git
+- HAPPY LEARNING!!!
+![alt text](image-96.png)
+![alt text](image-97.png)
+
