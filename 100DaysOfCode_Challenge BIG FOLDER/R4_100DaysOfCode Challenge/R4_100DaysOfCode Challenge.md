@@ -579,3 +579,20 @@ Daily Minimum >60mins✅; TOTAL => ≈67 mins
 ![alt text](image-96.png)
 ![alt text](image-97.png)
 
+#100-days-of-code
+Day 46/100 R4: 24 September 2026, Thursday
+Daily Minimum >60mins✅; TOTAL => ≈100 mins
+> What did I do this day?
+- Solved picoCTF "Tab, Tab, Attack" challenge easily by myself.
+- Solved picoCTF "Inspector" challenge moderately hard for me to solve by myself. It required me to inspect the entire website like a detective in Firefox.
+- Working my personal project "website-100daysofcode-journey-django" guided by asking Google AI Studio agilely.
+- Still configuring the right setup files by running CLI VS Code commands for speed (I think 80% of the configuration is already completed today). CLI commands in the PowerShell version are a bit different from Bash hehehe =)
+- It is not that easy to build an independent personal project, even after already asking AI LLMs for me lol.
+- You can check my current working project on my GitHub = https://github.com/QoLamdaS/website-100daysofcode-journey-django.git 
+- Honestly, I still feel incredibly confused and overwhelmed about how to utilize AI LLMs effectively but also efficiently and agilely for self-learning software engineering skills nowadays in the era of AI (not self-learning like Pre-AI-LLMs). I really have no idea.
+- HAPPY LEARNING!!!
+![alt text](image-98.png)
+![alt text](image-99.png)
+![alt text](image-100.png)
+![alt text](image-101.png)
+![alt text](image-102.png)
