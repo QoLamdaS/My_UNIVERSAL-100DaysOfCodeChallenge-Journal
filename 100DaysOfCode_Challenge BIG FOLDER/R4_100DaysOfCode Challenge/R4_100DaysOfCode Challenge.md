@@ -596,3 +596,16 @@ Daily Minimum >60mins✅; TOTAL => ≈100 mins
 ![alt text](image-100.png)
 ![alt text](image-101.png)
 ![alt text](image-102.png)
+
+#100-days-of-code
+Day 47/100 R4: 25 September 2026, Friday
+Daily Minimum >60mins✅; TOTAL => ≈65 mins
+> What did I do this day?
+- Today I'm so busy working on my large urgent homework and unfortunately also procrastinated a bit too much. And also, I have no idea why today, I feel so tired all day and also feel INEFFECTIVE for self-learning today.
+- I think I need to take a break right now.
+- I'm stuck on solving the "Strings it" challenge on picoCTF. I always get the same error when running the Strings CLI command.
+- I really have no idea, honestly.
+- HAPPY LEARNING!!!
+![alt text](image-103.png)
+![alt text](image-104.png)
+
