@@ -609,3 +609,15 @@ Daily Minimum >60mins✅; TOTAL => ≈65 mins
 ![alt text](image-103.png)
 ![alt text](image-104.png)
 
+#100-days-of-code
+Day 48/100 R4: 26 September 2026, Saturday
+Daily Minimum >60mins❌; TOTAL => ≈30 mins
+> What did I do this day?
+- Today I'm busy preparing for my midterm school exams, especially for hard subjects e.g. Maths and Physics. So today I'm just showing up.
+- Finally I decided to skip the "strings it" challenge on picoCTF. I can't get the flag to pass that challenge, even I already googled the exact solution and asked AI. I really have no idea. Maybe the challenge is flawed from there, hmmm.
+- Just checking out for my personal project "website-100daysofcode-journey-django". Hopefully I resume tomorrow or if I have time later.
+- HAPPY LEARNING!!!
+![alt text](image-105.png)
+![alt text](image-106.png)
+![alt text](image-107.png)
+
