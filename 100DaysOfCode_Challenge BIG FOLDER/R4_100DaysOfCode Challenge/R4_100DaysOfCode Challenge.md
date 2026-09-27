@@ -621,3 +621,11 @@ Daily Minimum >60mins❌; TOTAL => ≈30 mins
 ![alt text](image-106.png)
 ![alt text](image-107.png)
 
+#100-days-of-code
+Day 49/100 R4: 27 September 2026, Sunday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+- Today I'm still busy studying intensely for my midterm school exams tomorrow, especially for hard subjects. So today I'm just showing up again.
+- Today I just reviewed a bit about OOP concepts in Python.
+- Happy Learning!
+
