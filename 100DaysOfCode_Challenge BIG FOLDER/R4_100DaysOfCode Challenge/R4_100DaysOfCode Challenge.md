@@ -629,3 +629,13 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Today I just reviewed a bit about OOP concepts in Python.
 - Happy Learning!
 
+#100-days-of-code
+Day 50/100 R4: 28 September 2026, Monday
+Daily Minimum >60mins❌; TOTAL => ≈15 mins
+> What did I do this day?
+- Today I'm still busy studying intensely for my midterm school exams tomorrow, especially maths and physics. So today I'm just showing up again.
+- Today I'm just trying to solve the "First Grep" challenge on the picoCTF Beginner Course. I have no idea. I think the problem of grep & strings Ubuntu commands is inside my WSL 2 Ubuntu laptop maybe.
+- Happy Learning!
+![alt text](image-108.png)
+![alt text](image-109.png)
+
