@@ -648,3 +648,11 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Just reviewed a bit OOP concepts in Python for refreshing my brain.
 - Happy Learning!
 
+#100-days-of-code
+Day 52/100 R4: 30 September 2026, Wednesday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+- Unfortunately I'm really so busy studying "cramming" for my midterm school exams tomorrow, especially for Advanced Maths. 
+- So today I'm still just showing up again.
+- Again I just reviewed a bit OOP concepts in Python 101 because I don't have a time for today.
+- Happy Learning!
