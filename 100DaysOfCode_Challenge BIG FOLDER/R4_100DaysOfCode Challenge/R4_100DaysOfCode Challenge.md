@@ -656,3 +656,12 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - So today I'm still just showing up again.
 - Again I just reviewed a bit OOP concepts in Python 101 because I don't have a time for today.
 - Happy Learning!
+
+#100-days-of-code
+Day 53/100 R4: 1 October 2026, Thursday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+- Unfortunately again I'm still really so busy cramming for my midterm school exams tomorrow, especially for Advanced Maths tomorrow. 
+- So today I'm still just showing up again.
+- Again I just reviewed a bit about decorator and asynchronous function concepts for today. I have no time for today.
+- Happy Learning!
