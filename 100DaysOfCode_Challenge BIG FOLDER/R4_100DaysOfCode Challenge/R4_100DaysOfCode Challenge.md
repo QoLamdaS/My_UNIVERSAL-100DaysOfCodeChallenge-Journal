@@ -692,3 +692,13 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - I'm just show up again today by checking out picoCTF First Grep challenge Beginner Course.
 - Happy Learning!
 ![alt text](image-110.png)
+
+#100-days-of-code
+Day 57/100 R4: 5 October 2026, Monday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+-  Today I'm extremely exhausted after cramming for the midterm Physics exam last night.
+- Just showed up again today, checking my Ubuntu WSL 2 on my Windows 11 laptop.
+- Happy Learning!
+![alt text](image-111.png)
+
