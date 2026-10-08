@@ -720,4 +720,12 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Just showed up again by reviewing Python OOP concepts, hopefully tomorrow I will manage it better than today hopefully.
 - Happy Learning!
 
+#100-days-of-code
+Day 60/100 R4: 8 October 2026, Thursday
+Daily Minimum >60mins❌; TOTAL => ≈15 mins
+> What did I do this day?
+-  I'm still busy studying for my midterm school exams tomorrow.
+- Just showed up trying to solve the First Grep challenge picoCTF Beginner Course. I think the problem is on my Windows 11 laptop WSL 2 Ubuntu maybe. I really have no idea why the output from grep command is empty.
+- Happy Learning!
+![alt text](image-112.png)
 
