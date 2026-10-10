@@ -737,3 +737,17 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - I need to sleep early and get sufficient sleep tonight.
 - Just showed up reading Python usages for techs nowadays.
 - Happy Learning!
+
+#100-days-of-code
+Day 62/100 R4: 10 October 2026, Saturday
+Daily Minimum >60mins❌; TOTAL => ≈25 mins
+> What did I do this day?
+-  Back to work my personal project "website-100daysofcode-journey-django". I completely confused and really have no idea what should I do to work lol. I really overwhelmed. NO IDEA
+- I need to take a rest for today. I'm really exhausted and tired no idea.
+- Just really exhausted for no reason today.
+- Happy Coding!
+- Happy Learning!
+![alt text](image-113.png)
+![alt text](image-114.png)
+
+
