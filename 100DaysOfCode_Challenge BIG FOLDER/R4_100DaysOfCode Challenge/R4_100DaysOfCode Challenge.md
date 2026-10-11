@@ -750,4 +750,13 @@ Daily Minimum >60mins❌; TOTAL => ≈25 mins
 ![alt text](image-113.png)
 ![alt text](image-114.png)
 
+#100-days-of-code
+Day 63/100 R4: 11 October 2026, Sunday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+-  Just checking out my personal project "website-100daysofcode-journey-django". Maybe I think I should restart it again from zero again maybe. I really have no idea to progress my current personal project.
+- I'm extremely tired and exhausted for no reason again for today.
+- I need to take a good rest and get enough sleep today. Hopefully, tomorrow I will be better.
+- Happy Learning!
+![alt text](image-115.png)
 
