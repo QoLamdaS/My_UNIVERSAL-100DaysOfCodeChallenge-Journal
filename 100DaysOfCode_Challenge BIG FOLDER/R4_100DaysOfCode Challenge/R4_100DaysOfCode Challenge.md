@@ -760,3 +760,14 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Happy Learning!
 ![alt text](image-115.png)
 
+#100-days-of-code
+Day 64/100 R4: 12 October 2026, Monday
+Daily Minimum >60mins❌; TOTAL => ≈20 mins
+> What did I do this day?
+-  Finally made progress working on my personal project "website-100daysofcode-journey-django". I restarted it from scratch again.
+- Setting up the setups for the Django website using the Django CLI Command with the help of Google AI Studio.
+- No idea why I'm really exhausted for no reason today.
+- Happy Coding!
+- Happy Learning!
+![alt text](image-116.png)
+![alt text](image-117.png)
