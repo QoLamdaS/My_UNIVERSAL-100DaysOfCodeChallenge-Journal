@@ -771,3 +771,21 @@ Daily Minimum >60mins❌; TOTAL => ≈20 mins
 - Happy Learning!
 ![alt text](image-116.png)
 ![alt text](image-117.png)
+
+#100-days-of-code
+Day 65/100 R4: 13 October 2026, Tuesday
+Daily Minimum >60mins✅; TOTAL => ≈60 mins
+> What did I do this day?
+- I'm a bit distracted while doing programming hehehe.
+- Made progress on my personal project "website-100daysofcode-journey-django".
+- Setting up environment variables "secrets" in setups Django website.
+- And then do some testing through CLI commands before pushing the feature to GitHub.
+- I have no idea why I'm still really exhausted for no reason again today.
+- You can check my current working project on my GitHub = https://github.com/QoLamdaS/website-100daysofcode-journey-django.git
+- Happy Coding!
+- Happy Learning!
+![alt text](image-118.png)
+![alt text](image-119.png)
+![alt text](image-120.png)
+![alt text](image-121.png)
+
