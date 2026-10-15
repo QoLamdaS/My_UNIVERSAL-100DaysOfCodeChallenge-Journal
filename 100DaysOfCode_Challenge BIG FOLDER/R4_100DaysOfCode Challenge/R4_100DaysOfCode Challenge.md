@@ -801,3 +801,16 @@ Daily Minimum >60mins❌; TOTAL => ≈30 mins
 - Happy Learning!
 ![alt text](image-122.png)
 ![alt text](image-123.png)
+
+#100-days-of-code
+Day 67/100 R4: 15 October 2026, Thursday
+Daily Minimum >60mins❌; TOTAL => ≈20 mins
+> What did I do this day?
+- Made some to-do lists before pausing building website-100daysofcode-journey-django
+- Temporarily paused my personal side project building website-100daysofcode-journey-django. Because I want to focus more on preparing for my first-time CTF competition next week.
+- I'm really busy due to an "urgent" school event today 🏫🎒📚.
+- I'm trying to fix a grep command issue on my laptop Ubuntu WSL 2. I really have no idea.
+- HAPPY LEARNING!
+![alt text](image-124.png)
+![alt text](image-125.png)
+
