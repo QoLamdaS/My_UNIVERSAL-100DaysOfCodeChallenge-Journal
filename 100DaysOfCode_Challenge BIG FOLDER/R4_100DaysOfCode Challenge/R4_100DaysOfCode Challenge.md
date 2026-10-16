@@ -814,3 +814,11 @@ Daily Minimum >60mins❌; TOTAL => ≈20 mins
 ![alt text](image-124.png)
 ![alt text](image-125.png)
 
+#100-days-of-code
+Day 68/100 R4: 16 October 2026, Friday
+Daily Minimum >60mins❌; TOTAL => ≈5 mins
+> What did I do this day?
+- Busy due to quality time with family 🍽️🚗.
+- Just Showing Up by trying to fix a grep command issue of not giving any output after I run it to solve picoCTF challenges.
+- HAPPY LEARNING!
+
