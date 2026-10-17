@@ -822,3 +822,8 @@ Daily Minimum >60mins❌; TOTAL => ≈5 mins
 - Just Showing Up by trying to fix a grep command issue of not giving any output after I run it to solve picoCTF challenges.
 - HAPPY LEARNING!
 
+#100-days-of-code
+R4D69:
+- Busy day today. I got a common cold moderately. I am so tired for being sick.
+- Just showed up by signing up Wakatime website for logging duration in programming.
+
