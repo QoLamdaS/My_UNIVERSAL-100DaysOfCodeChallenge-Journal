@@ -832,3 +832,8 @@ R4D70:
 - Busy day today for my family quality time.
 - Just showed up by checking out the Wakatime website for logging time programming.
 
+#100-days-of-code
+R4D71:
+- I procrastinated a lot today and busy day today.
+- Just Showing Up by reading about programming basics a bit.
+- I feel incredibly exhausted for no reason.
