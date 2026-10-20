@@ -837,3 +837,9 @@ R4D71:
 - I procrastinated a lot today and busy day today.
 - Just Showing Up by reading about programming basics a bit.
 - I feel incredibly exhausted for no reason.
+
+#100-days-of-code
+R4D72:
+- I procrastinated a lot today so much for no reason.
+- Just Showing Up by reading about CTF Jeopardy-Style challenges.
+- I feel extremely exhausted for no reason again today.
