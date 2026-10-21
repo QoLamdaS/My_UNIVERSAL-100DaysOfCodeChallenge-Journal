@@ -843,3 +843,8 @@ R4D72:
 - I procrastinated a lot today so much for no reason.
 - Just Showing Up by reading about CTF Jeopardy-Style challenges.
 - I feel extremely exhausted for no reason again today.
+
+#100-days-of-code
+R4D73:
+- I procrastinated again so much a lot for no reason today.
+- Just Showing Up by reading about CTF Jeopardy areas a bit again.
