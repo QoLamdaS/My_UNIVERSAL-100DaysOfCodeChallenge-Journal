@@ -848,3 +848,8 @@ R4D72:
 R4D73:
 - I procrastinated again so much a lot for no reason today.
 - Just Showing Up by reading about CTF Jeopardy areas a bit again.
+
+#100-days-of-code
+R4D74:
+- Studying hard "cramming" to prepare for the CTF competition in the next few days through picoCTF website self-studying.
+![alt text](image-126.png)
