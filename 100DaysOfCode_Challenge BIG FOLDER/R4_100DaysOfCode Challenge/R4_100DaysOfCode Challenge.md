@@ -853,3 +853,15 @@ R4D73:
 R4D74:
 - Studying hard "cramming" to prepare for the CTF competition in the next few days through picoCTF website self-studying.
 ![alt text](image-126.png)
+
+#100-days-of-code
+R4D75:
+- Studying really hard, "cramming" for my CTF competition tomorrow. But I really enjoy playing on the picoCTF CyLab website I don't know why, for no reason.
+![alt text](image-127.png)
+![alt text](image-128.png)
+![alt text](image-129.png)
+![alt text](image-130.png)
+![alt text](image-131.png)
+![alt text](image-132.png)
+![alt text](image-133.png)
+
