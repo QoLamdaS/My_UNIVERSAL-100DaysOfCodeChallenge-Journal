@@ -865,3 +865,10 @@ R4D75:
 ![alt text](image-132.png)
 ![alt text](image-133.png)
 
+#100-days-of-code
+R4D76: (Yesterday, I forgot to post it hehehe)
+- Preparing a CTF Jeopardy competition as a beginner hehehe. And competing that day. It didn't go too badly.
+![alt text](image-134.png)
+![alt text](image-135.png)
+![alt text](image-136.png)
+![alt text](image-137.png)
