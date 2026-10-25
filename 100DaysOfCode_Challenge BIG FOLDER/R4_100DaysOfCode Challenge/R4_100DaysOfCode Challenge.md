@@ -872,3 +872,15 @@ R4D76: (Yesterday, I forgot to post it hehehe)
 ![alt text](image-135.png)
 ![alt text](image-136.png)
 ![alt text](image-137.png)
+
+#100-days-of-code
+R4D77: (Actually yesterday, I forgot to post it hehehe)
+- Practiced Binary Exploitation on picoCTF or CyLab Academy.
+- Real I competing in CTF Jeopardy today all day online. REALLY HARD LOL
+![alt text](image-138.png)
+![alt text](image-139.png)
+![alt text](image-140.png)
+
+
+
+
