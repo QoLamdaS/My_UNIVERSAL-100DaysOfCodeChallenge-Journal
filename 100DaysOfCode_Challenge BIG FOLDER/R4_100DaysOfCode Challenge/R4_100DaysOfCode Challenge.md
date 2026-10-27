@@ -878,3 +878,8 @@ R4D78:
 - Today is just about showing up by reading about CTF. I need sufficient sleep.
 - Finally,I decided to migrate from the Discord 100DaysOfCode Challenge to Twitter/X .I also decided to abandon the Discord 100DaysOfCode Challenge so far and redirect it to my X
 ![alt text](image-141.png)
+
+#100DaysOfCode
+R4D79:
+- Just practicing CTF picoCTF/CyLab Security Academy beginner course (finished). I really have no idea today.
+![alt text](image-142.png)
