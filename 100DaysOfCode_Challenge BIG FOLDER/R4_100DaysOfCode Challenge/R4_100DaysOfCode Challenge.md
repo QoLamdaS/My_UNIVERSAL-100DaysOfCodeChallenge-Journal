@@ -883,3 +883,7 @@ R4D78:
 R4D79:
 - Just practicing CTF picoCTF/CyLab Security Academy beginner course (finished). I really have no idea today.
 ![alt text](image-142.png)
+
+#100DaysOfCode
+R4D80:
+- I just showed up for today. I really have no idea to do. I'm only googling/researching CTF categories and CTF AI/ML category. Hopefully tomorrow I will be better than today hehehe =)
