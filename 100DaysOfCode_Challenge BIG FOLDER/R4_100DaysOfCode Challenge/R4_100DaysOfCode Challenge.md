@@ -887,3 +887,9 @@ R4D79:
 #100DaysOfCode
 R4D80:
 - I just showed up for today. I really have no idea to do. I'm only googling/researching CTF categories and CTF AI/ML category. Hopefully tomorrow I will be better than today hehehe =)
+
+#100DaysOfCode
+R4D81:
+- I'm trying to finish the entire modules CyLab Security Academy general skills learning path. Before maybe I diving to advanced web exploitation maybe hehehe.
+![alt text](image-143.png)
+
