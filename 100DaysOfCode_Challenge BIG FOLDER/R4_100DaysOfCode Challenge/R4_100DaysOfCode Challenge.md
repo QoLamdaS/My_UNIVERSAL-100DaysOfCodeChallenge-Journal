@@ -893,3 +893,6 @@ R4D81:
 - I'm trying to finish the entire modules CyLab Security Academy general skills learning path. Before maybe I diving to advanced web exploitation maybe hehehe.
 ![alt text](image-143.png)
 
+#100DaysOfCode
+🧊🧊🧊R4D81🧊🧊🧊:
+- TODAY I'M TRULY REALLY NEED TAKING 4 DAYS OFF (FRIDAY-MONDAY) DUE TO FAMILY MATTERS (FAMILY GATHERING).
