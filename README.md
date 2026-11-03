@@ -20,4 +20,6 @@ Round 4 In-Progress = Fully inside this repo finally
 - Tools & Platforms: Visual Studio Code, Git, GitHub
 
 ### 🤝 Let's Connect With Me :)
-- Discord: fade_noob.s (ThePlayer03) often active on Discord FreeCodeCamp Server #100-days-of-code
+- Discord: fade_noob.s (Discord ID = 940985157740003380)
+- Twitter/X: @PIEpiePIEpy (https://x.com/PIEpiePIEpy)
+- MLBB: perper {MLBB ID = 1559806015 (19432)}
