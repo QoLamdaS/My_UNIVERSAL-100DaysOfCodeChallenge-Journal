@@ -896,3 +896,11 @@ R4D81:
 #100DaysOfCode
 🧊🧊🧊R4D81🧊🧊🧊:
 - TODAY I'M TRULY REALLY NEED TAKING 4 DAYS OFF (FRIDAY-MONDAY) DUE TO FAMILY MATTERS (FAMILY GATHERING).
+
+#100DaysOfCode
+R4D82:
+- I'M BACK FROM TAKING 4 DAYS OFF YESTERDAY DUE TO URGENT AND IMPORTANT FAMILY GATHERING.
+- Updated my X and GitHub bio profile to be more approachable hopefully hehehe =)
+- Abandoned the idea of my own website for this challenge.
+![alt text](image-144.png)
+![alt text](image-145.png)
