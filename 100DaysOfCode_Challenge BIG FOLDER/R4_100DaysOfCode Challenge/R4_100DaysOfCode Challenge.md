@@ -904,3 +904,14 @@ R4D82:
 - Abandoned the idea of my own website for this challenge.
 ![alt text](image-144.png)
 ![alt text](image-145.png)
+
+#100DaysOfCode
+R4D83:
+- Doing workout CyLab Security Academy learning path General Skills.
+- Trying to make personal CTF write-up journals for practicing my CTF skills effectively and efficiently through GitHub Markdown files public repo.
+- Incredibly sleepy and exhausted.
+![alt text](image-146.png)
+![alt text](image-147.png)
+![alt text](image-148.png)
+![alt text](image-149.png)
+
