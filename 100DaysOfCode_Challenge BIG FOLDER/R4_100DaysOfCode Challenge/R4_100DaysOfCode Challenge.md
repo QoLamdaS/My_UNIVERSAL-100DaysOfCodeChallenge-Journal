@@ -915,3 +915,13 @@ R4D83:
 ![alt text](image-148.png)
 ![alt text](image-149.png)
 
+#100DaysOfCode
+R4D84:
+- Experimenting with writing good, simple, and "professional" write-ups through the write-up General Skills CyLab Security Academy. Tysm for the template from the internet.
+- Wrote a proper and "professional" README for my write-up GitHub public repo. CHECK.
+![alt text](image-150.png)
+![alt text](image-151.png)
+![alt text](image-152.png)
+
+
+
