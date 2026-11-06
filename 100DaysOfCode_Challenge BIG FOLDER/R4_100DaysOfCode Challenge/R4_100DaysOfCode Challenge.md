@@ -923,5 +923,11 @@ R4D84:
 ![alt text](image-151.png)
 ![alt text](image-152.png)
 
+#100DaysOfCode
+R4D85:
+- Today I'm really busy studying for school and preparing for upcoming exams.
+- Got stuck on the ping-cmd challenge in the picoCTF challenge library. I think I must extra creative and out-of-the-box maybe.
+![alt text](image-153.png)
+![alt text](image-154.png)
 
 
