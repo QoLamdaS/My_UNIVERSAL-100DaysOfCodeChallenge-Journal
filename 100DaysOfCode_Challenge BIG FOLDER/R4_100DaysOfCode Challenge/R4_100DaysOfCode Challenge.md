@@ -930,4 +930,8 @@ R4D85:
 ![alt text](image-153.png)
 ![alt text](image-154.png)
 
+#100DaysOfCode
+R4D86:
+- Still busy today studying for school and preparing for upcoming exams.
+- Just showed up only today by still trying to solve ping-cmd challenge picoCTF.
 
