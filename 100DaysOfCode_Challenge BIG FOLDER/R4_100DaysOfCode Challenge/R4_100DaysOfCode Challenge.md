@@ -935,3 +935,10 @@ R4D86:
 - Still busy today studying for school and preparing for upcoming exams.
 - Just showed up only today by still trying to solve ping-cmd challenge picoCTF.
 
+#100DaysOfCode
+R4D87:
+- Very busy studying for upcoming exams. And quality time with family 🧺🌴🍽️🚗
+- Solved ping-cmd challenge picoCTF with peeking hints a bit. 
+- Wrote a write-up to my GitHub Public repo dedicated to my CTF write-ups (practicing).
+![alt text](image-155.png)
+
