@@ -942,3 +942,9 @@ R4D87:
 - Wrote a write-up to my GitHub Public repo dedicated to my CTF write-ups (practicing).
 ![alt text](image-155.png)
 
+#100DaysOfCode
+R4D88:
+- Solved SUDO MAKE ME A SANDWICH challenge picoCTF with peeking hints a bit. BCS I STUCKED =)
+- Also wrote a write-up for that challenge.
+- Really busy today studying for upcoming exams tomorrow.
+![alt text](image-156.png)
