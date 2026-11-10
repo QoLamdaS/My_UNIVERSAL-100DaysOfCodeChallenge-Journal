@@ -948,3 +948,8 @@ R4D88:
 - Also wrote a write-up for that challenge.
 - Really busy today studying for upcoming exams tomorrow.
 ![alt text](image-156.png)
+
+#100DaysOfCode
+R4D89:
+- Practiced general skills easy challenge on picoCTF to just showing up.
+- Busy today, cramming for an upcoming physics exam tomorrow.
