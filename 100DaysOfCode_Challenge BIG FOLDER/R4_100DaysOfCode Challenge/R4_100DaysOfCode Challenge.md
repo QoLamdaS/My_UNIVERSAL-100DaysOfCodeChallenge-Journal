@@ -953,3 +953,11 @@ R4D88:
 R4D89:
 - Practiced general skills easy challenge on picoCTF to just showing up.
 - Busy today, cramming for an upcoming physics exam tomorrow.
+
+#100DaysOfCode
+R4D90:
+- Practiced general skills easy challenge on picoCTF to just showing up again.
+- Honestly, I procrastinated doing programming bcs doomscrolling and playing mlbb "mindlessly".
+
+
+
