@@ -959,5 +959,10 @@ R4D90:
 - Practiced general skills easy challenge on picoCTF to just showing up again.
 - Honestly, I procrastinated doing programming bcs doomscrolling and playing mlbb "mindlessly".
 
+#100DaysOfCode
+R4D91:
+- Trying to solve the General Skills medium challenge on picoCTF, preparing for my real offline CTF competition next week at university. I have no idea to solve this lol.
+- Happy Learning!
+![alt text](image-157.png)
 
 
