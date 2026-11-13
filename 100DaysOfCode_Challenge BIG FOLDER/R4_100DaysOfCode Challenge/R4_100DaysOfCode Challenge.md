@@ -965,4 +965,11 @@ R4D91:
 - Happy Learning!
 ![alt text](image-157.png)
 
+#100DaysOfCode
+R4D92:
+- Procrastinated so hard a lot today. I don't know why I procrastinated, actually.
+- I don't know why I am so stressed badly today.
+- Trying to master the fundamentals of web exploitation CTF challenges.
+![alt text](image-158.png)
+
 
