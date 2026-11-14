@@ -972,4 +972,12 @@ R4D92:
 - Trying to master the fundamentals of web exploitation CTF challenges.
 ![alt text](image-158.png)
 
+#100DaysOfCode
+R4D93:
+- Practiced on PortSwinger Web Security Academy seriously at Apprentice Lab. Really first time for me. I feel I got "Culture Shock".
+- Also I trying to write a proper Write-Up for today Lab Challenge on PortSwinger Academy.
+![alt text](image-159.png)
+![alt text](image-160.png)
+![alt text](image-161.png)
+
 
