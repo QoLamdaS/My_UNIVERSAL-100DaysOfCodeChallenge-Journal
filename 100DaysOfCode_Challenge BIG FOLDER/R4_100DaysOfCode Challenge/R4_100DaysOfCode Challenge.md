@@ -980,4 +980,10 @@ R4D93:
 ![alt text](image-160.png)
 ![alt text](image-161.png)
 
+#100DaysOfCode
+R4D94:
+- Just showed up today by reviewing Python OOP concepts.
+- Today I'm so busy due to some private trouble things.
+- Hopefully tomorrow will be better than today.
+
 
