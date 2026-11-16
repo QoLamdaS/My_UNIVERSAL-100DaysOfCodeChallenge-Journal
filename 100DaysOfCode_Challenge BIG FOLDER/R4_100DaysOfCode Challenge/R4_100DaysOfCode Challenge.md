@@ -986,4 +986,9 @@ R4D94:
 - Today I'm so busy due to some private trouble things.
 - Hopefully tomorrow will be better than today.
 
+#100DaysOfCode
+R4D95:
+- Just practiced the PortSwigger Web Security Academy Apprentice Level. Do that workout today.
+- I don't know why today I feel extremely so sleepy and so exhausted.
+![alt text](image-162.png)
 
