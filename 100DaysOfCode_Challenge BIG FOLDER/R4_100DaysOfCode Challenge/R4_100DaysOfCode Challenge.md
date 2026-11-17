@@ -992,3 +992,8 @@ R4D95:
 - I don't know why today I feel extremely so sleepy and so exhausted.
 ![alt text](image-162.png)
 
+#100DaysOfCode
+R4D96:
+- Today I'm so busy studying for the maths and physics exam tomorrow.
+- I just showed up today by reading about Taiwan's microchips.
+
