@@ -997,3 +997,7 @@ R4D96:
 - Today I'm so busy studying for the maths and physics exam tomorrow.
 - I just showed up today by reading about Taiwan's microchips.
 
+#100DaysOfCode
+R4D97:
+- Just showed up today again reading about hardware-software a bit.
+- I'm really busy today. I really need that time.
