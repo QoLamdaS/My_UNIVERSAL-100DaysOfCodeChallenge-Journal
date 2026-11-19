@@ -1001,3 +1001,11 @@ R4D96:
 R4D97:
 - Just showed up today again reading about hardware-software a bit.
 - I'm really busy today. I really need that time.
+
+#100DaysOfCode
+R4D98:
+- Write a write-up of the PortSwigger Apprentice Lab for self-learning web exploitation CTFs.
+- Continue reading PortSwigger Web Academy Apprentice a little bit.
+- My laptop is a a bit buggy and problematic today I don't know why. I need to fix it today.
+![alt text](image-163.png)
+
