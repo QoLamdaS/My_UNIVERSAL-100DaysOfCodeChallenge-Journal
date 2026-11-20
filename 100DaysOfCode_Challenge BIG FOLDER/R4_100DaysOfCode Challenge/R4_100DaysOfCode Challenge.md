@@ -1009,3 +1009,9 @@ R4D98:
 - My laptop is a a bit buggy and problematic today I don't know why. I need to fix it today.
 ![alt text](image-163.png)
 
+#100DaysOfCode
+R4D99:
+- I'm really exhausted today for no reason.
+- Stuck trying to solve PortSwigger Web Academy "Lab: Unprotected admin functionality with unpredictable URL". I really have no idea.
+- I need to sleep earlier today to achieve sufficient sleep tonight.
+![alt text](image-164.png)
