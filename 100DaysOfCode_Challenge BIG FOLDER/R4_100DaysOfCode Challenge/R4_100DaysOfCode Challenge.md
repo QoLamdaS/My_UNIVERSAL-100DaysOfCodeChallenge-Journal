@@ -1015,3 +1015,13 @@ R4D99:
 - Stuck trying to solve PortSwigger Web Academy "Lab: Unprotected admin functionality with unpredictable URL". I really have no idea.
 - I need to sleep earlier today to achieve sufficient sleep tonight.
 ![alt text](image-164.png)
+
+#100DaysOfCode
+R4D100:
+- Wow, honestly, I really didn't realize that I had already reached Round 4, Day 100 in this #100DaysOfCode challenge.
+- Do some CTF workouts before competing onsite/offline CTF competition at university tomorrow morning. 
+- Wish me luck guys hehehe =)
+![alt text](image-165.png)
+![alt text](image-166.png)
+
+
