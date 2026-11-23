@@ -10,3 +10,8 @@ R5D0:
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
+#100DaysOfCode
+R5D1:
+- Today's week is an end-of-term exam week at my school
+- So busy studying for end-term  exams tomorrow. Honestly, I got procrastinated a bit a lot.
+- So sleepy and so exhausted right now for me.
