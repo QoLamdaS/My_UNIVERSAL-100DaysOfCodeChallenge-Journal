@@ -20,3 +20,10 @@ R5D1:
 R5D2:
 - This week is an end-of-term exam week at my school, so I am busy studying for end-of-term exams tomorrow.
 - Just showed up today by researching a CTF competition on Instagram. Or maybe I should research beyond just on IG.
+
+#100DaysOfCode
+R5D3:
+- This week is an end-of-term exam week at my school.
+- I am so busy studying or "cramming" for a tough end-of-term physics exam tomorrow. No way I can pass wkwkwkwk.
+- Just showed up today by still doing researching a CTF competition on IG.
+
