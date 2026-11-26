@@ -27,3 +27,10 @@ R5D3:
 - I am so busy studying or "cramming" for a tough end-of-term physics exam tomorrow. No way I can pass wkwkwkwk.
 - Just showed up today by still doing researching a CTF competition on IG.
 
+#100DaysOfCode
+R5D4:
+- This week is an end-of-term exam week at my high school.
+- Deeply chilled right after taking a tough end-of-term Physics exam today lol.
+- Self-studied Mandarin today, so I'm just showing up picoCTF by a little.
+![alt text](image-3.png)
+
