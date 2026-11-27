@@ -34,3 +34,11 @@ R5D4:
 - Self-studied Mandarin today, so I'm just showing up picoCTF by a little.
 ![alt text](image-3.png)
 
+#100DaysOfCode
+R5D5:
+- I am really deeply tired and sleepy today. I really need to sleep earlier tonight.
+- Researching CTFs (especially Jeopardy) through Instagram universities nationally vs Platform CTFtime or picoCTF. I think boths are good for me.
+- Okay good night guys.
+![alt text](image-4.png)
+
+
