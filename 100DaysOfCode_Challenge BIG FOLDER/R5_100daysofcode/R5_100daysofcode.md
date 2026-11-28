@@ -41,4 +41,8 @@ R5D5:
 - Okay good night guys.
 ![alt text](image-4.png)
 
-
+#100DaysOfCode
+R5D6:
+- Today I'm busy studying for the end-of-term Advanced Maths exam in two days. Really insanely hard bro.
+- Just did a workout on the CyLab Security Academy REV/Pwn learning path.
+![alt text](image-5.png)
